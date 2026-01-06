@@ -1,0 +1,49 @@
+{
+  "tiny": [
+    "Drink a glass of water",
+    "Stretch for 30 seconds",
+    "Take 5 deep breaths",
+    "Close unused browser tabs",
+    "Stand up and reset posture"
+  ],
+
+  "quick": [
+    "Reply to unread messages",
+    "Tidy your desk",
+    "Organize desktop icons",
+    "Review your to-do list",
+    "Do 15 pushups or squats"
+  ],
+
+  "short": [
+    "Read 2–3 pages of a book",
+    "Review a flashcard deck",
+    "Solve 1 LeetCode Easy problem",
+    "Journal for 5 minutes",
+    "Organize your downloads folder"
+  ],
+
+  "medium": [
+    "Study one focused concept",
+    "Solve 2 LeetCode Easy problems",
+    "Write an email you've been postponing",
+    "Plan tomorrow’s priorities",
+    "Clean one area of your room"
+  ],
+
+  "deep_mini": [
+    "Work on a project feature",
+    "Review a problem set",
+    "Watch a focused CS/AI tutorial",
+    "Go for a short walk",
+    "Deep clean part of your room"
+  ],
+
+  "deep_work": [
+    "Deep work session on a project",
+    "Study a full lecture/module",
+    "Build or debug a feature",
+    "Long focused reading session",
+    "Uninterrupted creative work"
+  ]
+}
